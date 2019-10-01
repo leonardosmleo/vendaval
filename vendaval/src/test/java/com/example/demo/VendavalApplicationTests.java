@@ -12,5 +12,4 @@ public class VendavalApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
