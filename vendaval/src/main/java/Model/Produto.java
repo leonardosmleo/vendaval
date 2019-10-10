@@ -8,4 +8,5 @@ public class Produto {
 	@Id		
 	private Integer id;
 	private String descricao;
+	private Float valor;
 }
